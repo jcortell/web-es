@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "sobre.html",
+    "currentPage": "index.html",
     "name": "Jorge Cortell website español",
     "theme": {
       "name": "mobirise3",
@@ -23,14 +23,12 @@
     },
     "versionFirst": "3.8.5",
     "uniqCompNum": 22,
-    "versionPublish": "4.6.2",
+    "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128-1-128x128.png",
     "noImageResize": "",
     "globalfooter": "",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png",
-    "publishType": "local",
-    "publishPath": "file:///Users/jorge/Documents/GitHub/web-es"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -102,17 +100,17 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -138,23 +136,23 @@
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_anchor": "header1-1",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-20151013-2000x1500.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20151013-2000x1500.jpg",
             "bgColor": "#a07e49",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
           },
           "title": "Bienvenido a mi web",
           "text": "Este es el hogar digital de&nbsp;<span style=\"font-style: normal;\"><b>Jorge Cortell</b></span>.<br>Por el motivo que sea pareces interesado en mí o lo que tengo que decir. <br>En ese caso, has venido al lugar adecuado.",
@@ -180,13 +178,13 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
             "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
           },
           "text": "Jorge en las Redes Sociales",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/jorgecortell\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/profile.php?id=694855997\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/+JorgeCortellKanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/user/jorgecortellkanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://500px.com/jcortell\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-500px\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.flickr.com/photos/jcortell//\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-flickr\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://www.pinterest.com/jcortell/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"http://www.linkedin.com/in/jcortell/en\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"http://jcortell.tumblr.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-wikipedia\"></i></a> "
@@ -198,13 +196,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "(C0) Copyleft - Comparte"
         }
@@ -278,17 +276,17 @@
           "_name": "menu",
           "_anchor": "menu-7",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -325,23 +323,23 @@
           },
           "_anchor": "header1-8",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-20150613-2000x1500.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20150613-2000x1500.jpg",
             "bgColor": "#a07e49",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "title": "¿Quién es Jorge Cortell?",
           "text": "<br><b>\"No me preguntes quién soy, ni me pidas que siga siendo el mismo\"</b><br><br><span style=\"font-style: normal;\">Michel Foucault</span>. The Archaeology of Knowledge (1972)<br>",
@@ -359,27 +357,27 @@
           },
           "_anchor": "features1-d",
           "_params": {
+            "columnsColor": "#2e2e2e",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "6",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": false,
-            "columnsColor": "#2e2e2e",
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "columns": "6",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showButtons": false
           },
           "media1": {
             "image": {
@@ -411,7 +409,7 @@
           },
           "title2": "Curador de Arte&nbsp;",
           "subtitle2": "&nbsp;Curador y Asesor Internacional de arte",
-          "caption2": "He curado varias exposiciones, en diferentes países. También soy asesor de la&nbsp;<i>Real Academia de las Artes de San Carlos</i>.<br>Si quieres saber más, pega un vistazo a <a href=\"https://www.linkedin.com/in/jorge-cortell-albert-342169115/\" target=\"_blank\">mi perfil de curador en LinkedIn</a>.<br>",
+          "caption2": "He curado varias exposiciones, en diferentes países. También soy asesor de la&nbsp;<i>Real Academia de las Artes de San Carlos</i>.<br>Si quieres saber más, pega un vistazo a mi perfil en LinkedIn.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -426,8 +424,8 @@
             }
           },
           "title3": "Hacktivista",
-          "subtitle3": "Hacker + <a href=\"https://www.amazon.com/Spanish-Activists-Arguello-Cortell-Alejandro/dp/B0070N83TU/\" target=\"_blank\">Activista</a>",
-          "caption3": "He hecho <i>lobby</i>&nbsp;contra las patentes de software en el Parlamento Europeo, impartido clases contra el <i>copyright</i> por toda Europa y los EE.UU., documentado abusos medioambientales en Camboya y policiales en EE.UU....",
+          "subtitle3": "Hacker + Activista",
+          "caption3": "He hecho <i>lobby</i>&nbsp;contra las patentes de software en el Parlamento Europeo, impartido clases contra el <i>copyright</i> por toda Europa y los EE.UU., documentado abusos medioambientales en Camboya...",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -443,7 +441,7 @@
           },
           "title4": "Académico",
           "subtitle4": "Profesor, Investigador y Estudiante",
-          "caption4": "Los tres van de la mano. <br>He impartido ponencias en 60 universidades, <br>he sido profesor invitado en 3, estudiado en 7... de nuevo,&nbsp;pega un vistazo a mi perfil en <a href=\"http://www.linkedin.com/in/jcortell/en\" target=\"_blank\">LinkedIn</a> para más info.",
+          "caption4": "Los tres van de la mano. <br>He impartido ponencias en 60 universidades, <br>he sido profesor invitado en 3, estudiado en 7... de nuevo,&nbsp;pega un vistazo a mi perfil en LinkedIn para más info.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
@@ -457,9 +455,9 @@
               "linkInNewWindow": false
             }
           },
-          "title5": "Asesor",
+          "title5": "Asesor Gubernamental",
           "subtitle5": "Trabajando 'desde dentro'",
-          "caption5": "He asesorado a gobiernos en Latinoamérica, así como a la Comisión Europea, y al banco UBS, en asuntos relacionados con <i>copyleft</i>, innovación y sanidad.",
+          "caption5": "He asesorado a gobiernos en Latinoamérica, así como a la Comisión Europea, en asuntos relacionados con <i>copyleft</i>, innovación y sanidad.",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
@@ -489,7 +487,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><i>He visto cosas que no creeríais</i>:</p><p><br></p><p>He aconsejado a un rey que abdique y establezca una república, he estado completamente rodeado de serpientes, he sobrevivido a terremotos, huracanes e inundaciones, he recorrido medio mundo, me han disparado y envenenado, he superado un cáncer, he fotografiado escavaciones arqueológicas en una zona de guerra, he ganado capeonatos deportivos internacionales, he creado software que ha ayudado a curar a millones de pacientes, he convivido con una paciente psiquiátrica grave durante años sin poderla curar, he sido retenido por un escuadrón antiterrorista en Turquía, me han premiado en varias modalidades científicas distintas, he cenado en palacios con príncipes y embajadores, he llevado comida a gente sin hogar en Bangladesh, he participado en fiestas en playas californianas con <i>billonarios </i>y he surfeado en Ibiza, la novia de un narco colombiano me hizo un <i>striptease</i> delante de él en Bogotá, he <i>hackeado</i>&nbsp;el ordenador de criminales y entregado las pruebas a la policía lo que llevó a penas de cárcel, he organizado manifestaciones anarquistas en las calles e Nueva York y huelgas en las aulas, me han operado más de una docena de veces y he sufrido fracturas en el cuello (dos) y todas las extremidades, la policía frustró un plan para secuestrarme en Perú, he estado bajo tanto estrés que me he partido cuatro dientes, en Moscú mi guardaespaldas paró el tráfico con un AK47, de pequeño me pegaron una paliza tan grande que uno de mis ojos cambió de color... permanentemente, he desarrollado software en colaboración con la NASA para poder darle a mi prometida el anillo de compromiso más exótico, y cuando se perdió bajé a un volcán y conseguí lava para hacerle otro, he impartido una conferencia a miles de personas en un estadio, he visto nacer y morir, me ha robado un policía y me ha ayudado un ladrón, me he subido al ring a combatir en varias artes marciales distintas, de niño vi cómo un tanque apuntaba a mi casa y amenazaba con disparar durante horas, la universidad que me forzó a dimitir luego me dió una medalla, he estado enterrado en la nieve, he sido tan rico que he ido en crucero de lujo por todo el mundo, y he sido tan pobre que no he podido pagar la luz, he navegado en barco pesquero durante una tormenta por el Atlántico Norte, un huracán me ha levantado del suelo... <br>Sobretodo he amado y he sido amado. He encontrado la belleza.</p><p><br>Y esto no ha hecho más que empezar... pero <i>todos esos momentos se perderán en el tiempo, como lágrimas en la lluvia</i>.</p>"
+          "text": "<p><i>He visto cosas que no creeríais</i>:</p><p><br></p><p>He aconsejado a un rey que abdique y establezca una república, he estado completamente rodeado de serpientes, he sobrevivido a terremotos, huracanes e inundaciones, he recorrido medio mundo... antes de ser mayor de edad, me han disparado y envenenado, he superado un cáncer, he fotografiado escavaciones arqueológicas en una zona de guerra, he ganado capeonatos deportivos internacionales, he creado software que ha ayudado a curar a millones de pacientes, he convivido con una paciente psiquiátrica grave durante años sin poderla curar, he sido retenido por un escuadrón antiterrorista en Turquía, me han premiado en varias modalidades científicas distintas, he cenado en palacios con príncipes y embajadores, he llevado comida a gente sin hogar en Bangladesh, he participado en fiestas en playas californianas con <i>billonarios </i>y he surfeado en Ibiza, la novia de un narco colombiano me hizo un <i>striptease</i> delante de él en Bogotá, he <i>hackeado</i>&nbsp;el ordenador de criminales y entregado las pruebas a la policía lo que llevó a penas de cárcel, he organizado manifestaciones anarquistas en las calles e Nueva York y huelgas en las aulas, me han operado más de una docena de veces y he sufrido fracturas en el cuello (dos) y todas las extremidades, la policía frustró un plan para secuestrarme en Perú, he estado bajo tanto estrés que me he partido cuatro dientes, en Moscú mi guardaespaldas paró el tráfico con un AK47, de pequeño me pegaron una paliza tan grande que uno de mis ojos cambió de color... permanentemente, he desarrollado software en colaboración con la NASA para poder darle a mi prometida el anillo de compromiso más exótico, he impartido una conferencia a miles de personas en un estadio, he visto nacer y morir, me ha robado un policía y me ha ayudado un ladrón, me he subido al ring a combatir en varias artes marciales distintas, de niño vi cómo un tanque apuntaba a mi casa y amenazaba con disparar durante horas, la universidad que me forzó a dimitir luego me dió una medalla, he estado enterrado en la nieve, he sido tan rico que he ido en crucero de lujo por todo el mundo, y he sido tan pobre que no he podido pagar la luz. <br>Sobretodo he amado y he sido amado. He encontrado la belleza.</p><p><br>Y esto no ha hecho más que empezar... pero <i>todos esos momentos se perderán en el tiempo, como lágrimas en la lluvia</i>.</p>"
         },
         {
           "_inherit": "social-buttons2",
@@ -511,13 +509,13 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
             "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
           },
           "text": "Jorge en Redes Sociales",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/jorgecortell\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/profile.php?id=694855997\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/+JorgeCortellKanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/user/jorgecortellkanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://500px.com/jcortell\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-500px\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.flickr.com/photos/jcortell//\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-flickr\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://www.pinterest.com/jcortell/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"http://www.linkedin.com/in/jcortell/en\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"http://jcortell.tumblr.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-wikipedia\"></i></a> "
@@ -529,13 +527,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "(C0) Copyleft - Comparte"
         }
