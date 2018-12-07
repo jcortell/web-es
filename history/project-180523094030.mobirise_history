@@ -23,15 +23,14 @@
     },
     "versionFirst": "3.8.5",
     "uniqCompNum": 22,
-    "versionPublish": "4.7.6",
+    "versionPublish": "4.6.2",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128-1-128x128.png",
     "noImageResize": "",
     "globalfooter": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "publishType": "local",
-    "publishPath": "file:///Users/jorge/Documents/GitHub/web-es",
-    "siteFonts": []
+    "publishPath": "file:///Users/jorge/Documents/GitHub/web-es"
   },
   "pages": {
     "index.html": {
@@ -118,7 +117,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/jorgecortell-117x128.png",
+              "src": "@PROJECT_PATH@/assets/images/header-128x128.jpg",
               "height": 128,
               "alt": "Jorge Cortell",
               "link": "http://jorge.cortell.net",
@@ -190,7 +189,7 @@
             "overlayOpacity": 0.5
           },
           "text": "Jorge en las Redes Sociales",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/jorgecortell\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/user/jorgecortellkanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://500px.com/jcortell\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-500px\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.flickr.com/photos/jcortell//\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-flickr\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://www.pinterest.com/jcortell/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"http://www.linkedin.com/in/jcortell/en\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"http://jcortell.tumblr.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-wikipedia\"></i></a> "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/jorgecortell\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/profile.php?id=694855997\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/+JorgeCortellKanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/user/jorgecortellkanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://500px.com/jcortell\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-500px\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.flickr.com/photos/jcortell//\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-flickr\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://www.pinterest.com/jcortell/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"http://www.linkedin.com/in/jcortell/en\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"http://jcortell.tumblr.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-wikipedia\"></i></a> "
         },
         {
           "_name": "footer1",
@@ -294,11 +293,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/jorgecortell-117x128.png",
+              "src": "@PROJECT_PATH@/assets/images/header-128x128.jpg",
               "height": 128,
               "alt": "Jorge Cortell",
               "link": "http://jorge.cortell.net",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -394,8 +394,8 @@
             }
           },
           "title1": "Emprendedor en Serie (x8)",
-          "subtitle1": "Incluído un \"unicornio\"",
-          "caption1": "He fundado o co-fundado 8 empresas (5 <i>exits</i>). Mi&nbsp;<a href=\"http://www.kanteron.com\" target=\"_blank\">empresa actual</a>&nbsp;ha sido elegida entre el 4% de las startups principales de tecnología médica. Si quieres saber más, mira mi perfil en&nbsp;<a href=\"http://www.linkedin.com/in/jcortell/en\">LinkedIn</a>.",
+          "subtitle1": "8 veces y ningún fracaso",
+          "caption1": "He fundado o co-fundado 8 empresas (5 <i>exits</i>). Mi&nbsp;<a href=\"http://www.kanteron.com\" target=\"_blank\">empresa actual</a>&nbsp;ha sido elegida \"El próximo unicornio Europeo\". Si quieres saber más, pega un vistazo a mi perfil en&nbsp;<a href=\"http://www.linkedin.com/in/jcortell/en\">LinkedIn</a>.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
@@ -411,7 +411,7 @@
           },
           "title2": "Curador de Arte&nbsp;",
           "subtitle2": "&nbsp;Curador y Asesor Internacional de arte",
-          "caption2": "He curado varias exposiciones, en diferentes países. También soy asesor de la&nbsp;<i>Real Academia de las Artes de San Carlos</i>.<br>Si quieres saber más, consulta&nbsp;<a href=\"https://www.linkedin.com/in/jorge-cortell-albert-342169115/\" target=\"_blank\">mi perfil de curador en LinkedIn</a>.<br>",
+          "caption2": "He curado varias exposiciones, en diferentes países. También soy asesor de la&nbsp;<i>Real Academia de las Artes de San Carlos</i>.<br>Si quieres saber más, pega un vistazo a <a href=\"https://www.linkedin.com/in/jorge-cortell-albert-342169115/\" target=\"_blank\">mi perfil de curador en LinkedIn</a>.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -474,7 +474,7 @@
             }
           },
           "title6": "Y más...",
-          "subtitle6": "Nada de eso me define o limita",
+          "subtitle6": "Nada de eso medefine o limita",
           "caption6": "Ex-jugador profesionald e baloncesto, actor infantil, escritor, marido, padre.., <br>Pero hay un límite a lo que uno puede poner en una web, o incluso desea compartir con extraños.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
@@ -489,7 +489,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><i>He visto cosas que no creeríais</i>:</p><p><br></p><p>He aconsejado a un rey que abdique y establezca una república, he estado completamente rodeado de serpientes, he sobrevivido a terremotos, huracanes e inundaciones, he recorrido medio mundo, me han disparado y envenenado, he superado un cáncer, he fotografiado escavaciones arqueológicas en una zona de guerra y documentado espolios medioambientales, he ganado capeonatos deportivos internacionales, he creado software que ha ayudado a curar a millones de pacientes, he convivido con una paciente psiquiátrica grave durante años sin poderla curar, he sido retenido por un escuadrón antiterrorista en Turquía, me han premiado en varias modalidades científicas distintas, he cenado en palacios con príncipes y embajadores, he llevado comida a gente sin hogar en Bangladesh, he participado en fiestas en playas californianas con <i>billonarios </i>y he surfeado en Ibiza, la novia de un narco colombiano me hizo un <i>striptease</i> delante de él en Bogotá, he <i>hackeado</i>&nbsp;el ordenador de criminales y entregado las pruebas a la policía lo que llevó a penas de cárcel, he organizado manifestaciones anarquistas en las calles e Nueva York y huelgas en las aulas, me han operado más de una docena de veces y he sufrido fracturas en el cuello (dos) y todas las extremidades, he huído de la policía secreta a la salida de una obra de teatro prohibida, la policía frustró un plan para secuestrarme en Perú, he estado bajo tanto estrés que me he partido cuatro dientes, en Moscú mi guardaespaldas (sin yo saberlo) paró el tráfico con un AK47, de pequeño me pegaron una paliza tan grande que uno de mis ojos cambió de color... permanentemente, he desarrollado software en colaboración con la NASA para poder darle a mi prometida el anillo de compromiso más exótico, y cuando se perdió bajé a un volcán y conseguí lava para hacerle otro, he impartido una conferencia a miles de personas en un estadio, he visto nacer y morir, me ha robado un policía y me ha ayudado un ladrón, me he subido al ring a combatir en varias artes marciales distintas, de niño durante un golpe de estado vi cómo un tanque apuntaba a mi casa y amenazaba con disparar durante horas, la universidad que me forzó a dimitir luego me dió una medalla, he estado enterrado en la nieve, he visto a mi hijo hundirse en un lago helado, he sido tan rico que he ido en crucero de lujo por todo el mundo, y he sido tan pobre que no he podido pagar la luz, he navegado en barco pesquero durante una tormenta por el Atlántico Norte, un huracán me ha levantado del suelo... <br>Sobretodo he amado y he sido amado. He encontrado la belleza.</p><p><br>Y esto no ha hecho más que empezar... pero <i>todos esos momentos se perderán en el tiempo, como lágrimas en la lluvia</i>.</p>"
+          "text": "<p><i>He visto cosas que no creeríais</i>:</p><p><br></p><p>He aconsejado a un rey que abdique y establezca una república, he estado completamente rodeado de serpientes, he sobrevivido a terremotos, huracanes e inundaciones, he recorrido medio mundo, me han disparado y envenenado, he superado un cáncer, he fotografiado escavaciones arqueológicas en una zona de guerra, he ganado capeonatos deportivos internacionales, he creado software que ha ayudado a curar a millones de pacientes, he convivido con una paciente psiquiátrica grave durante años sin poderla curar, he sido retenido por un escuadrón antiterrorista en Turquía, me han premiado en varias modalidades científicas distintas, he cenado en palacios con príncipes y embajadores, he llevado comida a gente sin hogar en Bangladesh, he participado en fiestas en playas californianas con <i>billonarios </i>y he surfeado en Ibiza, la novia de un narco colombiano me hizo un <i>striptease</i> delante de él en Bogotá, he <i>hackeado</i>&nbsp;el ordenador de criminales y entregado las pruebas a la policía lo que llevó a penas de cárcel, he organizado manifestaciones anarquistas en las calles e Nueva York y huelgas en las aulas, me han operado más de una docena de veces y he sufrido fracturas en el cuello (dos) y todas las extremidades, la policía frustró un plan para secuestrarme en Perú, he estado bajo tanto estrés que me he partido cuatro dientes, en Moscú mi guardaespaldas paró el tráfico con un AK47, de pequeño me pegaron una paliza tan grande que uno de mis ojos cambió de color... permanentemente, he desarrollado software en colaboración con la NASA para poder darle a mi prometida el anillo de compromiso más exótico, y cuando se perdió bajé a un volcán y conseguí lava para hacerle otro, he impartido una conferencia a miles de personas en un estadio, he visto nacer y morir, me ha robado un policía y me ha ayudado un ladrón, me he subido al ring a combatir en varias artes marciales distintas, de niño vi cómo un tanque apuntaba a mi casa y amenazaba con disparar durante horas, la universidad que me forzó a dimitir luego me dió una medalla, he estado enterrado en la nieve, he sido tan rico que he ido en crucero de lujo por todo el mundo, y he sido tan pobre que no he podido pagar la luz, he navegado en barco pesquero durante una tormenta por el Atlántico Norte, un huracán me ha levantado del suelo... <br>Sobretodo he amado y he sido amado. He encontrado la belleza.</p><p><br>Y esto no ha hecho más que empezar... pero <i>todos esos momentos se perderán en el tiempo, como lágrimas en la lluvia</i>.</p>"
         },
         {
           "_inherit": "social-buttons2",
@@ -520,7 +520,7 @@
             "overlayOpacity": 0.5
           },
           "text": "Jorge en Redes Sociales",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/jorgecortell\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/user/jorgecortellkanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://500px.com/jcortell\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-500px\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.flickr.com/photos/jcortell//\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-flickr\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://www.pinterest.com/jcortell/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"http://www.linkedin.com/in/jcortell/en\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"http://jcortell.tumblr.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-wikipedia\"></i></a> "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/jorgecortell\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/profile.php?id=694855997\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/+JorgeCortellKanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/user/jorgecortellkanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://500px.com/jcortell\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-500px\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.flickr.com/photos/jcortell//\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-flickr\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://www.pinterest.com/jcortell/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"http://www.linkedin.com/in/jcortell/en\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"http://jcortell.tumblr.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-wikipedia\"></i></a> "
         },
         {
           "_name": "footer1",
